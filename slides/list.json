@@ -1,5 +1,24 @@
 [
     ["index.md"],
-    ["test1.md"]
-
+    [
+        "01-intro/01.md"
+        "01-intro/02.md"
+    ],
+    [
+        "02-contexto-mob/01.md"
+        "02-contexto-mob/02.md"
+    ],
+    [
+        "03-contexto-wp/01.md"
+        "03-contexto-wp/02.md"
+    ],
+    [
+        "04-taller/01.md"
+        "04-taller/02.md"
+    ],
+    [
+        "05-futuro/01.md"
+        "05-futuro/02.md"
+    ],
+    ["end.md"],
 ]

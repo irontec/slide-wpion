@@ -1,24 +1,58 @@
 [
     ["index.md"],
     [
-        "01-intro/01.md"
-        "01-intro/02.md"
+        "01-intro/01.md",
+        "01-intro/02.md",
+        "01-intro/03.md",
+        "01-intro/04.md",
+        "01-intro/05.md",
+        "01-intro/06.md",
+        "01-intro/07.md"
     ],
     [
-        "02-contexto-mob/01.md"
-        "02-contexto-mob/02.md"
+        "02-contexto-mob/01.md",
+        "02-contexto-mob/02.md",
+        "02-contexto-mob/03.md",
+        "02-contexto-mob/04.md",
+        "02-contexto-mob/05.md",
+        "02-contexto-mob/06.md",
+        "02-contexto-mob/07.md",
+        "02-contexto-mob/08.md",
+        "02-contexto-mob/09.md",
+        "02-contexto-mob/10.md",
+        "02-contexto-mob/11.md",
+        "02-contexto-mob/12.md"
+
     ],
     [
-        "03-contexto-wp/01.md"
-        "03-contexto-wp/02.md"
+        "03-contexto-wp/01.md",
+        "03-contexto-wp/02.md",
+        "03-contexto-wp/03.md",
+        "03-contexto-wp/04.md",
+        "03-contexto-wp/05.md"
+
     ],
     [
-        "04-taller/01.md"
-        "04-taller/02.md"
+        "04-taller/01.md",
+        "04-taller/02.md",
+        "04-taller/03.md",
+        "04-taller/04.md",
+        "04-taller/05.md",
+        "04-taller/06.md",
+        "04-taller/07.md",
+        "04-taller/08.md",
+        "04-taller/09.md",
+        "04-taller/10.md",
+        "04-taller/11.md",
+        "04-taller/12.md"
     ],
     [
-        "05-futuro/01.md"
-        "05-futuro/02.md"
+        "05-futuro/01.md",
+        "05-futuro/02.md",
+        "05-futuro/03.md",
+        "05-futuro/04.md",
+        "05-futuro/05.md"
+
     ],
-    ["end.md"],
+    ["end.md"]
 ]
